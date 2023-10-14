@@ -9,7 +9,7 @@ Telegram: [@scriptsboy](https://t.me/scriptsboy)
 
 
 
-[![鲜橙加冰's Wiki's github activity graph](https://github.wwangpw.repl.co/graph?username=xiaowansm5&bg_color=211c1f&color=6cf033&line=46c874&point=e70d65&area=true&hide_border=true)](https://github.com/xiaowansm5)
+[![鲜橙加冰's Wiki's github activity graph](https://github.wwangpw.repl.co/graph?username=xiaowansm5&bg_color=211c1f&color=6cf033&line=46c874&point=e70d65&area=true&hide_border=true)](https://github.com/scriptsboy)
 
 
 
